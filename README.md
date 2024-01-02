@@ -5,7 +5,7 @@ This sample demonstrates how to render and do other graphics related things from
 
 Unity versions:
 
-! #*2018.1+** use tip of default branch.
+! !*2018.1+** use tip of default branch.
 * 5.6, 5.5, 5.4: use corresponding `unity-x.x` tag.
 
 The plugin itself does very few things:
@@ -49,4 +49,4 @@ Code is organized as follows:
 ### What license are the graphics samples shipped under?
 
 Just like with most other samples, the license is MIT/X11.
- 
+  
